@@ -21,6 +21,6 @@ num1 % num2
 end
 modulo(34,5)
 def square_root(num)
-  **num
+  
 end
-square_root(81)
+
