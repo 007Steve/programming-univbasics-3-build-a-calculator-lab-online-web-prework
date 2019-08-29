@@ -23,4 +23,5 @@ modulo(34,5)
 def square_root(num)
   num
 end
-square_root(81)
+square_root(9)
+
